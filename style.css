@@ -1,5 +1,5 @@
 body {
-    background-color: #e8f0fe;
+    background-color: #afb4a7;
     font-family: Arial, sans-serif;
 }
 
@@ -14,7 +14,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #174ea6;
+    color: #229ec7;
 }
 
 label {
@@ -36,7 +36,7 @@ button {
     width: 100%;
     margin-top: 20px;
     padding: 12px;
-    background-color: #174ea6;
+    background-color: #92c367;
     color: white;
     border: none;
     border-radius: 5px;
